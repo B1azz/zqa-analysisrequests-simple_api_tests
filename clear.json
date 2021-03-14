@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "code": "",
+  "sampleTemplate": "",
+  "material": "",
+  "materialLot": "",
+  "startTime": "",
+  "endTime": "",
+  "priority": "",
+  "description": "",
+  "sourceType": "",
+  "source": "",
+  "subdivision": "",
+  "sampleAnalysisRequests": [
+    {
+      "id": "",
+      "code": "",
+      "num": "",
+      "order": 1,
+      "samplingPoint": "",
+      "samplingDate": "",
+      "sampleLog": "",
+      "description": "",
+      "quantity": 0,
+      "quantityUom": "",
+      "sampleJobOrders": [
+        {
+          "id": "",
+          "order": 1,
+          "workDefinition": "",
+          "performerType": "",
+          "performer": ""
+        }
+      ]
+    }
+  ]
+}
